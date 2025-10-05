@@ -55,7 +55,7 @@ This project shows my ability to **apply core machine learning concepts** and us
 
 ## Example Visualization
 The project generates a pairplot that shows the relationships between the iris flower features:
-
+![Pairplot Example](pairplot.png)
 
 ## About the Project
 This project was part of my portfolio to demonstrate my practical understanding of machine learning basics, including:
