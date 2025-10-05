@@ -63,9 +63,5 @@ This project was part of my portfolio to demonstrate my practical understanding 
 - Data exploration
 - Model training and evaluation
 - Visual presentation of results
-
-Author: Piotr Wilkowski
-- wilkowskipiotr02@gmail.com
-- www.linkedin.com/in/piotr-wilkowski-a84452312
 ---
 ⬅️ [Back to my Portfolio](https://github.com/PiotrWilkowski/portfolio)
