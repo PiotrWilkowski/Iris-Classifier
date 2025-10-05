@@ -27,13 +27,6 @@ I performed:
 -  **Accuracy and classification report** printed in the console.  
 -  **Custom prediction** for a new flower sample.
 
-Example output:
-Accuracy: 0.95
-precision recall f1-score support
-Iris-setosa 1.00 1.00 1.00 16
-Iris-versicolor 0.94 0.94 0.94 16
-Iris-virginica 0.94 0.94 0.94 13
-
 
 ---
 
